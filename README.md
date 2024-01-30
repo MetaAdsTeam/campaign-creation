@@ -1,13 +1,13 @@
 # Campaign Creation
 
 ## Introduction
-    This document is an instruction on how to work with campaigns and how create it.
+This document is an instruction on how to work with *campaigns* and how create it.
 
 ## 1. Opening the [**MetaAds**](https://metaads.team/main/) website
 
 * Connect
-* Click on **Advertiser** 
-* Click on **My Campaigns**
+* Click on *Advertiser*
+* Click on *My Campaigns*
 
 ## 2. Creating a **Campaign** with *Exclusive Rule*
 
@@ -19,16 +19,16 @@
 
 ![Image](./media/1.png)
 ##
-    The next step is the schedule, where the necessary rules are selected to control the campaign time.
+> The next step is the schedule, where the necessary rules are selected to control the campaign time.
 * Click on *Next step* button (1)
 * Select the *advertising space* where our *campaign* will be performed (2)
 * Click on *Next Step* button (3)
 
 ![Image](./media/2.png)
 ##
-    The last step is the review and budget. As we can see, the price for publishing a campaign on this advertising space is shown, taking into account the commission of the site itself and, in fact, your budget. We can launch a campaign and wait for the appointed time.
+> The last step is the *review and budget*. As we can see, the price for publishing a *campaign* on this advertising space is shown, taking into account the commission of the site itself and, in fact, your budget. We can launch a *campaign* and wait for the appointed time.
 
-* Click on Start Campaign 
+* Click on *Start Campaign* 
 
 **The Campaign** has been created and is already displayed on the page with *On Hold* status. 
 
@@ -49,4 +49,4 @@ As you noticed, **Campaigns** have three rules:
 
 ![Image](./media/5.png)
    
-    The rules can be combined and their timing can be chosen as needed.
+> The *rules* can be combined and their timing can be chosen as needed.
