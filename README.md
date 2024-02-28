@@ -14,7 +14,7 @@ This document is an instruction on how to work with *campaigns* and how create i
 * Enter *Name* (1)
 * Enter *Describe* (2)
 * Select the exact date, start and finish time of the *campaign* (3)
-* Select the desired target *audience* (4)
+* Select the desired target [*audience*](https://github.com/MetaAdsTeam/audience-creation) (4)
 * Click on *Next Step* button
 
 ![Image](./media/1.png)
@@ -26,7 +26,7 @@ This document is an instruction on how to work with *campaigns* and how create i
 
 ![Image](./media/2.png)
 ##
-> The last step is the *review and budget*. As we can see, the price for publishing a *campaign* on this advertising space is shown, taking into account the commission of the site itself and, in fact, your budget. We can launch a *campaign* and wait for the appointed time.
+> The last step is the *review and budget*. As we can see, the price for publishing a *campaign* on this advertising space is shown, taking into account *Metaads fee* and your budget. We can launch a *campaign* and wait for the appointed time.
 
 * Click on *Start Campaign* 
 
@@ -43,7 +43,10 @@ This document is an instruction on how to work with *campaigns* and how create i
 As you noticed, **Campaigns** have three rules:
 * *Exclusive* - it takes up the entire campaign time. 
 
-* *The periodical* is divided into two types: 1 - *no limit* (the number of impressions of the creative for a certain time), 2 - *no more than every* (the number of impressions no more often than for a given time). 
+* *The periodical* is divided into two types: 
+
+  * *No limit* (the number of impressions of the creative for a certain time)
+  * *No more than every* (the number of impressions no more often than for a given time). 
 
 * *Targeted* - works only if a certain number of users are present on the selected scene (you can also select a certain country).
 
